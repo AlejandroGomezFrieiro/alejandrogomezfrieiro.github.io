@@ -123,6 +123,21 @@ For example, to make the following word **bold**, all that is needed is to selec
 just serve
 ```
 
+# Setting up direnv for easy reloading
+It is a bit annoying to have to run `nix develop` every time I want to enter the environment. [direnv](https://direnv.net/) allows one to setup the devshell whenever one enters the environment. On top of it, we can set [nix-direnv](https://github.com/nix-community/nix-direnv) for the nix-part of the setup to work a lot better, and spend a lot less time setting up environments.
+
+Once `direnv` is setup, one just needs to make a `.envrc` file in the same folder as the project.
+
+```
+if ! has nix_direnv_version || ! nix_direnv_version 3.0.6; then
+  source_url "https://raw.githubusercontent.com/nix-community/nix-direnv/3.0.6/direnvrc" "sha256-RYcUJaRMf8oF5LznDrlCXbkOQrywm0HDv1VjYGaJGdM="
+fi
+use flake
+```
+
+Now, after we run `direnv allow`, it will setup everything! Now whenever you enter the folder, if the `flake.nix` file has not changed, you will have your development environment ready.
+
 # Conclusion
 
 Overall I am quite happy with the setup. I just need to clone the repo and run `nix develop` to start writing anywhere (I hope! Fingers crossed!).
+
