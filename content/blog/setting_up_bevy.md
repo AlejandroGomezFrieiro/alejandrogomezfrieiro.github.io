@@ -1,5 +1,9 @@
 ---
 title: Setting up Bevy
+tags:
+    - blog
+    - nix
+    - rust
 ---
 
 Game development is something I have always found fascinating. After all, it combines several completely distinct skills such as programming, art and music to create a (hopefully fun) interactive experience.
@@ -93,3 +97,6 @@ run:
 
 Now we can just call `just run`, and it should compile and execute!
 
+# Issues with drivers on Intel Graphics
+
+Seems like bevy is not working properly with his setup. I looked into nixGL as a way to link the Vulkan drivers, but something must be off in this installation. :(
