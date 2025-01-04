@@ -1,4 +1,8 @@
-2025 is my writing year. That is a decision I made, and why I started my [[Digital Garden]]. Part of this resolution comes as a way to find an alternative to company-owned
+---
+title: Crossposting
+---
+
+2025 is my writing year. That is a decision I made, and why I started my [[Digital garden]]. Part of this resolution comes as a way to find an alternative to company-owned
 social media, and part of it comes from a pure desire to dump my
 thoughts into text.
 

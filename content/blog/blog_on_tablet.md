@@ -1,5 +1,8 @@
 ---
 title: Writing with Nebo
+tags:
+    - blog
+    - writing
 ---
 
 I have recently started writing for myself, and I thought it might be a good idea to share
