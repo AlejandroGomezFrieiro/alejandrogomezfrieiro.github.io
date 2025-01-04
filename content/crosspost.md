@@ -7,7 +7,7 @@ tags:
 test: test
 ---
 
-2025 is my writing year. That is a decision I made, and why I started my [[Digital garden]]. Part of this resolution comes as a way to find an alternative to company-owned
+2025 is my writing year. That is a decision I made, and why I started my [[digital garden]]. Part of this resolution comes as a way to find an alternative to company-owned
 social media, and part of it comes from a pure desire to dump my
 thoughts into text.
 
@@ -25,10 +25,10 @@ Sadly, due to the limitations of different sites, I can't just do this. For exam
 
 
 1. Python script
-    • Parse markdown using marko
-    • Modify math to Ketex syntax.
-    • Use Dexto API to
-        - Post new files with a tag or metadat
-        - If post exists, just edit changes.
+    * Parse markdown using marko
+    * Modify math to Ketex syntax.
+    * Use Dexto API to
+        * Post new files with a tag or metadata
+        * If post exists, just edit changes.
 
 2. Run it on Github Actions.
