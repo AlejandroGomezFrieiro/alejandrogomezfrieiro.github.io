@@ -80,6 +80,9 @@
         neovim = nixvim_config.inputs.nixvim.legacyPackages.${system}.makeNixvimWithModule neovimModule;
       in with pkgs; {
         defaultPackage = app;
-        devShell = mkShell { buildInputs = [ just neovim markdown-oxide nodejs node2nix ]; };
+        devShell = mkShell {
+            buildInputs = [ just neovim markdown-oxide nodejs node2nix zsh ]; 
+
+            };
       });
 }
