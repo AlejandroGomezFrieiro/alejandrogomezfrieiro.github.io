@@ -1,5 +1,10 @@
 ---
 title: Crossposting
+tags:
+    - python
+    - automation
+
+test: test
 ---
 
 2025 is my writing year. That is a decision I made, and why I started my [[Digital garden]]. Part of this resolution comes as a way to find an alternative to company-owned
@@ -17,3 +22,13 @@ My initial thought is to setup a Github action that will
     • If the article already exists, edit it.
 
 Sadly, due to the limitations of different sites, I can't just do this. For example, the syntax to add math equations in Quartz and Devto differs quite a bit.
+
+
+1. Python script
+    • Parse markdown using marko
+    • Modify math to Ketex syntax.
+    • Use Dexto API to
+        - Post new files with a tag or metadat
+        - If post exists, just edit changes.
+
+2. Run it on Github Actions.
