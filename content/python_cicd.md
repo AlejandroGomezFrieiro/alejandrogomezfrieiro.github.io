@@ -1,3 +1,8 @@
+---
+title: Python CI/CD
+tags:
+    - python
+---
 1. Setup python-semantic-release
 2. Generate initial Changelog.md with `semantic-release changelog`.
 3. Setup `pyproject.toml`
