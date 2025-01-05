@@ -8,6 +8,39 @@ tags:
 
 I have struggled with making a reproducible python development environment for a while, but I think I have now found the proper way.
 
+Let's assume we have a simple `pyproject.toml` file ready.
+
+```toml
+[project]
+name = "test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+  "ruff>=0.7.2",
+  {include-group = "test"},
+  "mypy>=1.14.1",
+  "isort>=5.13.2",
+]
+test = [
+  "pytest-cov>=6.0.0",
+  "pytest>=8.3.3",
+]
+
+[[tool.uv.index]]
+url = "https://pypi.org/simple"
+default = true
+```
+
 I am stubborn enough that I want to make sure I use nix flakes, so let's start by entering a new folder and generating a flake. The flake will use [devenv](https://devenv.sh/) to generate the environment with [flake-parts](https://flake.parts/).
 
 ```nix
