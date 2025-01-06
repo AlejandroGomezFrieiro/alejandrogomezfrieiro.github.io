@@ -1,6 +1,5 @@
 
 ```dataview
 TABLE
-FROM "projects"
-WHERE 
+FROM #project
 ```
