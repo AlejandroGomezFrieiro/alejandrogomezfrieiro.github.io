@@ -11,7 +11,9 @@ Nix is
 
 I decided on the flavours name after [catppuccin](https://catppuccin.com/), my favourite colorscheme so far.
 
-Flavours of Nix are variants of how the nix
+Flavours of Nix are variants of the nix language/package, brought up by the awesomeness of open source
+
+- [lix](https://git.lix.systems/lix-project/lix): 
 
 # Resources
 [nix.dev](https://nix.dev/tutorials/first-steps/index.html)
