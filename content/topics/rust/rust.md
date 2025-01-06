@@ -51,4 +51,4 @@ match optional_value {
 ```
 
 # References
-- []()
+- [Awesome Rust alternatives](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)
