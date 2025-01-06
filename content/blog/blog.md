@@ -2,6 +2,6 @@
 title: Blog
 ---
 ```dataview
-TABLE
+TABLE title
 FROM "blog" AND #blog
 ```
