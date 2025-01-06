@@ -1,0 +1,1 @@
+Need to quickly be ablo to setup a python project.
