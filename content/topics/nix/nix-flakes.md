@@ -20,7 +20,7 @@ A flake **outputs expressions** from its inputs
 }
 ```
 
-Resources:
+Resources and references:
 - [Zero to Nix](https://zero-to-nix.com/concepts/flakes/)
 - [Xe's blog](https://xeiaso.net/blog/nix-flakes-1-2022-02-21/)
 - [NixOS and Flakes book](https://nixos-and-flakes.thiscute.world/)
