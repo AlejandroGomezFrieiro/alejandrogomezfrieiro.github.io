@@ -18,6 +18,7 @@ I have been using Neovim for a few years now, and the experience has been mostly
 TJ Devries, one of the main developers of Neovim, called it a Personalized Development Environment [^pde].
 
 # Basic learning
+- https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html
 
 # My setup
 
