@@ -6,6 +6,6 @@ tags: [project]
 Use as much Nix as possible for my projects.
 
 ```dataview
-TABLE
+TABLE file.name
 FROM "projects/nixification"
 ```
