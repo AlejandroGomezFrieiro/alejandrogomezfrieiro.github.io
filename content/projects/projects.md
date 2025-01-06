@@ -1,5 +1,5 @@
 
 ```dataview
-LIST
-FROM projects
+TABLE
+FROM "projects"
 ```
