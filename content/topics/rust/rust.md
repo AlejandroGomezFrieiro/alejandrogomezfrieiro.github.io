@@ -53,4 +53,6 @@ match optional_value {
 
 # References
 - [Awesome Rust Tools](https://github.com/unpluggedcoder/awesome-rust-tools): Collection of tools written in Rust.
-- [Official Learn Rust](https://www.rust-lang.org/learn)
+- [Official Learn Rust](https://www.rust-lang.org/learn).
+- [Awesome Rust resources](https://github.com/rust-unofficial/awesome-rust?tab=readme-ov-file#resources)
+
