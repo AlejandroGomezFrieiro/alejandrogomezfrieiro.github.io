@@ -9,6 +9,9 @@ I would like to consider myself a bit of a multi-passionate person. I am current
 
 This site is a [[digital garden]] as well as a [[second brain]] for me. Thank you for visiting, I hope your stay is pleasant.
 
+![[projects]]
+![[blog]]
+
 # 📑 Blog
 
-I sometimes write a #blog regaring personal thoughts and technology.
+I sometimes write a #blog regaring personal thoughts and technology
