@@ -7,7 +7,7 @@ tags:
 
 # What is neovim
 [Neovim](https://neovim.io/) is a modal text editor, born as a fork of [vim](https://www.vim.org/). A modal editor differs from the popularized modeless editor model which can be seen in apps like Window's Notepad. Neovim has three primary modes
-- NORMAL: 
+- NORMAL: Navigate with `hjkl`, perform actions on code with the syntax 
 - INSERT
 - VISUAL
 
