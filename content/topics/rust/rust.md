@@ -20,5 +20,7 @@ enum ExampleEnum {
 The `enum` can be destructured with the `match` keyword
 
 ```rust
-let enum = ExampleEnum
+let enum = ExampleEnum::Value1;
+
+match 
 ```
