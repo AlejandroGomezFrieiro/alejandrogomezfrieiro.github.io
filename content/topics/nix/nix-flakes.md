@@ -1,7 +1,3 @@
-Resources:
-- [Zero to Nix](https://zero-to-nix.com/concepts/flakes/)
-- [Xe's blog](https://xeiaso.net/blog/nix-flakes-1-2022-02-21/)
-- [NixOS and Flakes book](https://nixos-and-flakes.thiscute.world/)
 A nix flake is a directory containing, at least
 
 ```
@@ -24,5 +20,9 @@ A flake **outputs expressions** from its inputs
 }
 ```
 
+Resources:
+- [Zero to Nix](https://zero-to-nix.com/concepts/flakes/)
+- [Xe's blog](https://xeiaso.net/blog/nix-flakes-1-2022-02-21/)
+- [NixOS and Flakes book](https://nixos-and-flakes.thiscute.world/)
 
 
