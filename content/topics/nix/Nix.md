@@ -9,7 +9,9 @@ Nix is
 
 ## Nix flavours
 
-I took the fla
+I decided on the flavours name after [catppuccin](https://catppuccin.com/), my favourite colorscheme so far.
+
+Flavours of Nix are
 
 # Resources
 [nix.dev](https://nix.dev/tutorials/first-steps/index.html)
