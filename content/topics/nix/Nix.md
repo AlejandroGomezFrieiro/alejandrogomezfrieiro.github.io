@@ -14,7 +14,7 @@ I decided on the flavours name after [catppuccin](https://catppuccin.com/), my f
 Flavours of Nix are variants of the nix language/package, brought up by the awesomeness of open source
 
 - [lix](https://git.lix.systems/lix-project/lix): Community-first modern implementation of Nix
-- tvix
+- [tvix](https://tvix.dev/): Rust re-implementation of the Nix package manager. Still WIP, but relates to [Devenv]()
 
 # Resources
 [nix.dev](https://nix.dev/tutorials/first-steps/index.html)
