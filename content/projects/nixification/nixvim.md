@@ -1,1 +1,1 @@
-Finish porting my [original neovim setup]() into my nixvim
+Finish porting my [original neovim setup](https://github.com/AlejandroGomezFrieiro/chezmoi) into my nixvim
