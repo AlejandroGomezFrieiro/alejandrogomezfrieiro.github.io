@@ -27,7 +27,7 @@ The recommended way to install Nix is by using the [lix installer](https://git.l
 
 For an existing installation, it can be upgraded running the following code
 
-> [!warning]
+> [!warning]- Do not run random code from the Internet!
 > Always been careful when running bash stuff from the Internet without double checking it's purpose, even (specially) if it comes from me!
 
 
