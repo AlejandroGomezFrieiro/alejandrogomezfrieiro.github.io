@@ -11,8 +11,8 @@ Some personal favourites are the `Option` and `Result` types, and its incredible
 
 ```rust
 enum ExampleEnum {
-    Value1,
+    Value1, # 
     Value2(String),
-    Value3 {}
+    Value3 {inner_value: u32}
 }
 ```
