@@ -13,6 +13,6 @@ Some personal favourites are the `Option` and `Result` types, and its incredible
 enum ExampleEnum {
     Value1, // Standard enum on other languages
     Value2(String), // Enum with an inner type
-    Value3 {inner_value: u32}
+    Value3 {inner_value: u32} // Struct like values
 }
 ```
