@@ -18,4 +18,14 @@ Setup:
 
 # Folder organization
 
-PKM organisation has always been an issue for me. I have tried 
+PKM organisation has always been an issue for me. I have tried [PARA](https://fortelabs.com/blog/para/) in the past, but having such a structured way of doing things does not go well with me. So far I have decided on a simple structure, and hopefully through practice and iteration it will improve.
+
+```bash
+blog
+projects
+topics
+```
+
+For crosa-usage, I try to avoid Obsidian-only plugins that add functionality. This way I can keep all of my information in markdown
+
+
