@@ -21,4 +21,4 @@ The fact that it is an ever-evolving set of documents means that there will be f
 
 # Sync
 
-Android: Git Sync + Obsidian
+Android: Git Sync + Obsidian.  Easy to setup ssh keys, not sure how easy it is to push changes...
