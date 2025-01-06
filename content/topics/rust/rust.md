@@ -4,7 +4,7 @@ tags: [rust]
 ---
 Rust is a blazingly fast (their claim, not mine) programming language, with safety as one of its main features.
 
-# Type system
+# Favourite Rust features
 Rust's type system is extensible, and allows the compiler to check the codes validity.
 
 Some personal favourites are the `Option` and `Result` types, and its incredible `enum`. In Rust, one can define an enum using the `enum` keyword
@@ -15,4 +15,10 @@ enum ExampleEnum {
     Value2(String), // Enum with an inner type
     Value3 {inner_value: u32} // Struct like values
 }
+```
+
+The `enum` can be destructured with the `match` keyword
+
+```rust
+let enum = ExampleEnum
 ```
