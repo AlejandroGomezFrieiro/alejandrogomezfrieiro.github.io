@@ -31,7 +31,7 @@ You might like vim so much it might be hard to then go back to modeless editors!
 
 
 > [!note]- Nixvim
-One caveat of the dotfile-style setup: reproducibility. I recently had to install neovim in my personal laptop after installing NixOS and had troubke setting up all the required things... This lead me to start using [](). Trying to improve my setup to make it reproducible and more modular, you can read about the efforts in [[nixvim]].
+One caveat of the dotfile-style setup: reproducibility. I recently had to install neovim in my personal laptop after installing NixOS and had troubke setting up all the required things... This lead me to start using [nixvim](https://github.com/nix-community/nixvim), a Nix-based neovim configuration. Trying to improve my setup to make it reproducible and more modular, you can read about the efforts in [[nixvim]].
 
 [^pde]: https://youtu.be/QMVIJhC9Veg?si=qtJYVT_CFhCtG2Em
 
