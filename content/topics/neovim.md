@@ -13,6 +13,8 @@ tags:
 
 Neovim has a strong community and lots of plugins thanks to its extensibility.
 
-I have been using Neovim for a few years now, and the experience has been mostly great. The quasi-gamification of text-editing
+I have been using Neovim for a few years now, and the experience has been mostly great. The quasi-gamification of text-editing, and its personalisation makes it such a good way to think about writing.
+
+TJ Devries, one of the main developers of Neovim, called it a Personal
 
 With one minor caveat: reproducibility. This is now solved thanks to Nix. Trying to improve my setup, you can read about the efforts in [[nixvim]].
