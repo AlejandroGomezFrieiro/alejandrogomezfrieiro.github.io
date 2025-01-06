@@ -19,7 +19,7 @@ TJ Devries, one of the main developers of Neovim, called it a Personalized Devel
 
 # Basic learning
 - https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html
-- [User manual](https://neovim.io/doc/user/usr_01.html)
+- [User manual](https://neovim.io/doc/user/usr_01.html) or just run `nvim +Tutor`
 - 
 
 # My setup
