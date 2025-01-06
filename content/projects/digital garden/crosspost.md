@@ -27,8 +27,9 @@ Sadly, due to the limitations of different sites, I can't just do this. For exam
 1. Python script
     * Parse markdown using marko
     * Modify math to Ketex syntax.
-    * Use Dexto API to
+    * Use Devto API to
         * Post new files with a tag or metadata
         * If post exists, just edit changes.
+        * API developed in [devto.py]()
 
 2. Run it on Github Actions.
