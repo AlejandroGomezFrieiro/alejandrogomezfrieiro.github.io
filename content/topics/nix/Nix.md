@@ -23,7 +23,7 @@ Flavours of Nix are variants of the nix language/package, brought up by the awes
 
 # Installing Nix
 
-The 
+The revommended
 
 # Resources
 [nix.dev](https://nix.dev/tutorials/first-steps/index.html) ^7d39a4
