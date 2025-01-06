@@ -51,13 +51,20 @@ match optional_value {
 }
 ```
 
-# maturin and PyO3
+## maturin and PyO3
 We can now publish Python packages that use Rust using `maturin` and `pyo3`. Rust powers some of qiskit and [pydantic](https://pydantic.dev/).
 
 [Maturin](https://www.maturin.rs/)
+
+# The hard truth
+
+Rust is great, but is also hard to learn and use for non-CS folks. Many people in the science community are used to Python, often without type hints.
+
+Sometimes Rust can also become quite verbose, and while the compiler is your friend (most of the time), sometimes one must do non-idiomatic things to make the compiler happy. Some call it [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html).
+
+Rust is a great tool but might not be the ideal tool for all usecases. It is great for production-level, but might be overkill for more explorative efforts (like notebook-style programming, widely used in Data Science and Quantum Computing along others), or when designing/drafting a project.
 
 # References
 - [Awesome Rust Tools](https://github.com/unpluggedcoder/awesome-rust-tools): Collection of tools written in Rust.
 - [Official Learn Rust](https://www.rust-lang.org/learn).
 - [Awesome Rust resources](https://github.com/rust-unofficial/awesome-rust?tab=readme-ov-file#resources)
-
