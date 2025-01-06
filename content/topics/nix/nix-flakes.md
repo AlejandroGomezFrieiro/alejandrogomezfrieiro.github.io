@@ -7,3 +7,5 @@ A nix flake is a directory containing, at least
 flake.nix
 flake.lock
 ```
+
+A flake **outputs expressions** from its inputs
