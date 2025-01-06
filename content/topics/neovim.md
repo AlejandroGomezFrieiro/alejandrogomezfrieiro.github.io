@@ -17,17 +17,21 @@ I have been using Neovim for a few years now, and the experience has been mostly
 
 TJ Devries, one of the main developers of Neovim, called it a Personalized Development Environment [^pde].
 
-# Basic learning
+# Learning
+Coming from a modeless editor can be hard to internalise how vim-like movement works. In my case, I think it took a few months of full-time use to overwrite my muscle memory.
+
+> [!note]
+You might like vim so much it might be hard to then go back to modeless editors! I have a hard time sometimes switching to using, for example, Jupyter without vim, since I am so used to vim-motions for code editing.
+
 - https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html
 - [User manual](https://neovim.io/doc/user/usr_01.html) or just run `nvim +Tutor`
-- 
+- [Vim Adventures](https://vim-adventures.com/): Game to learn the basics of vim movements.
 
 # My setup
 
-I have a relatively limited amount of
 
-> [!note]
-With one minor caveat: reproducibility. This is now solved thanks to Nix. Trying to improve my setup to make it reproducible and more modular, you can read about the efforts in [[nixvim]].
+> [!note]- Nixvim
+One caveat of the dotfile-style setup: reproducibility. I recently had to install neovim in my personal laptop after installing NixOS and had troubke setting up all the required things... This lead me to start using [](). Trying to improve my setup to make it reproducible and more modular, you can read about the efforts in [[nixvim]].
 
 [^pde]: https://youtu.be/QMVIJhC9Veg?si=qtJYVT_CFhCtG2Em
 
