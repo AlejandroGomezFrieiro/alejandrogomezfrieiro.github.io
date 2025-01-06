@@ -11,7 +11,7 @@ Nix is
 
 I decided on the flavours name after [catppuccin](https://catppuccin.com/), my favourite colorscheme so far.
 
-Flavours of Nix are
+Flavours of Nix are variants of how the nix
 
 # Resources
 [nix.dev](https://nix.dev/tutorials/first-steps/index.html)
