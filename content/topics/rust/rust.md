@@ -51,7 +51,8 @@ match optional_value {
 }
 ```
 
-# maturin and PyOx
+# maturin and PyO3
+
 
 # References
 - [Awesome Rust Tools](https://github.com/unpluggedcoder/awesome-rust-tools): Collection of tools written in Rust.
