@@ -8,6 +8,7 @@ flake.nix
 flake.lock
 ```
 
+You can create a flake, and a template, by running `nix flake init` in a folder.
 A flake **outputs expressions** from its inputs
 
 ```nix
