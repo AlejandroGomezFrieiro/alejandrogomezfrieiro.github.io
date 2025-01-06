@@ -20,7 +20,10 @@ enum ExampleEnum {
 The `enum` can be destructured with the `match` keyword
 
 ```rust
-let enum = ExampleEnum::Value1;
+let enum_instance = ExampleEnum::Value1;
 
-match 
+match enum_instance {
+   ExampleEnum::Value1 => println!("Value 1"),
+   ExampleEnum::Value2(s) => println!(format!("Value {s}"))
+}
 ```
