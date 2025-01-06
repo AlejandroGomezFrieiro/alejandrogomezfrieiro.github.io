@@ -5,4 +5,6 @@ tags: [rust]
 Rust is a blazingly fast (their claim, not mine) programming language, with safety as one of its main features.
 
 # Type system
-Rust's type system allows its compiler to check
+Rust's type system is extensible, and allows the compiler to check the codes validity.
+
+Some personal favourites are the `Option` and `Result` types
