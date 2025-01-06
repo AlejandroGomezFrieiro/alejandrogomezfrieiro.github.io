@@ -17,14 +17,16 @@ enum ExampleEnum {
 }
 ```
 
-The `enum` can be destructured with the `match` keyword
+The `enum` can be destructured with the `match` keyword.
 
 ```rust
 let enum_instance = ExampleEnum::Value1;
 
 match enum_instance {
    ExampleEnum::Value1 => println!("Value 1"),
-   ExampleEnum::Value2(s) => println!(format!("Value {s}")),
-   ExampleEnum::Value3 {i} =>println!(format!("Value {i}"))
+   ExampleEnum::Value2(s) => println!(format!("Value 2: {s}")),
+   ExampleEnum::Value3 {inner_value} =>println!(format!("Value 3: {inner_value}"))
 }
 ```
+
+Since `Option` and `Result` are also `enum`,
