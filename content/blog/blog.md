@@ -3,6 +3,6 @@ title: Blog
 ---
 ```dataview
 TABLE WITHOUT ID
-file.linkAS
+file.link AS 
 FROM "blog" AND #blog
 ```
