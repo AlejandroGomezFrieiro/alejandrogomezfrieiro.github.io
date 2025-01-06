@@ -52,7 +52,7 @@ match optional_value {
 ```
 
 # maturin and PyO3
-
+We can now publish Python packages that use Rust
 
 # References
 - [Awesome Rust Tools](https://github.com/unpluggedcoder/awesome-rust-tools): Collection of tools written in Rust.
