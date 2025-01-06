@@ -18,14 +18,3 @@ A blogpost is a piece of writing where there is a clear beginning and an end. It
 In contrast, a digital garden is a collection of related texts, where one is free to go into any desired rabit hole. It can be seen as a **Personal Knowledge Management** system of sorts, where we find relations between different small topics.
 
 The fact that it is an ever-evolving set of documents means that there will be failures as well, and from them one can learn.
-
-# Sync
-
-Android: Git Sync + Obsidian.  Easy to setup ssh keys and access, syncs every time I open and close the Obsidian app. Single worry: 
-
-Setup:
-
-- [x] Tablet
-- [x] Phone
-
-![[Screenshot_20250106_181148_Brave.jpg]]

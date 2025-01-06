@@ -3,8 +3,6 @@ title: Crossposting
 tags:
     - python
     - automation
-
-test: test
 ---
 
 2025 is my writing year. That is a decision I made, and why I started my [[digital garden]]. Part of this resolution comes as a way to find an alternative to company-owned
@@ -13,7 +11,7 @@ thoughts into text.
 
 However, living in a capitalistic society as I do, I also have to, sadly, think about how to showcase myself on the Internet.
 
-while all of my writing will be available through the Digital Garden, I am also looking for options to automatically cross post to sites such as Dexto and Youtube.
+while all of my writing will be available through the Digital Garden, I am also looking for options to automatically cross post to sites such as Devto and Youtube.
 
 Leaving aside Youtube (thinking about how to do markdown → youtube conversion), crossposting to a website such as Deuto should not be too complicated
 
