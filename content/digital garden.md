@@ -21,4 +21,4 @@ The fact that it is an ever-evolving set of documents means that there will be f
 
 # Sync
 
-Android: 
+Android: Git Sync + Obsidian
