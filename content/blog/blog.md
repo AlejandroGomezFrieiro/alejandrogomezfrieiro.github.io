@@ -3,6 +3,6 @@ title: Blog
 ---
 ```dataview
 TABLE
-file.name AS Name
+title AS Title
 FROM "blog" AND #blog
 ```
