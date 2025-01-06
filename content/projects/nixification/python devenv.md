@@ -1,1 +1,4 @@
-Need to quickly be ablo to setup a python project.
+Need to quickly be ablo to setup a python devenv.
+
+Requirements:
+- uv synced from 'pyproject.toml'
