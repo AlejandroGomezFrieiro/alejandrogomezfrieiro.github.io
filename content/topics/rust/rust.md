@@ -52,7 +52,7 @@ match optional_value {
 ```
 
 # maturin and PyO3
-We can now publish Python packages that use Rust using `maturin` and `pyo3`. This powers some of the qiskit
+We can now publish Python packages that use Rust using `maturin` and `pyo3`. Rust powers some of the qiskit
 
 [Maturin](https://www.maturin.rs/)
 
