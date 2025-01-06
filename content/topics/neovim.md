@@ -17,8 +17,14 @@ I have been using Neovim for a few years now, and the experience has been mostly
 
 TJ Devries, one of the main developers of Neovim, called it a Personalized Development Environment [^pde].
 
+# Basic learning
+
+# My setup
+
+I have a relatively limited amount of
+
 > [!note]
-With one minor caveat: reproducibility. This is now solved thanks to Nix. Trying to improve my setup, you can read about the efforts in [[nixvim]].
+With one minor caveat: reproducibility. This is now solved thanks to Nix. Trying to improve my setup to make it reproducible and more modular, you can read about the efforts in [[nixvim]].
 
 [^pde]: https://youtu.be/QMVIJhC9Veg?si=qtJYVT_CFhCtG2Em
 
