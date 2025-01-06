@@ -4,8 +4,10 @@ tags: [nix]
 Nix is
 
 - An operating system [NixOS](https://nixos.org/)
-- A functional programming language called Nix
+- A functional programming language called Nix. Because it is functional, there are no side-effects
 - A package manager
+
+Through nix, we can generated declarative 
 
 ## Nix flavours
 
