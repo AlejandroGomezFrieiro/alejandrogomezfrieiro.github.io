@@ -29,4 +29,4 @@ match enum_instance {
 }
 ```
 
-Since `Option` and `Result` are also `enum`,
+Since `Option` and `Result` are also `enum`, it is comm
