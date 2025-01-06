@@ -1,5 +1,5 @@
 
 ```dataview
-TABLE
+TABLE description
 FROM #project
 ```
