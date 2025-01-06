@@ -13,7 +13,7 @@ Some of the code here might not be correct, as I wrote it quickly without checki
 Coming from a Python background, which has a broken tooling system with several implementations of a package manager, Rust is a breath of fresh air.
 
 - cargo: Package manager
-- cli
+- clippy
 
 ## Type system and match statements
 Rust's type system is extensible, and allows the compiler to check the code's validity.
