@@ -12,13 +12,6 @@ A flake **outputs expressions** from its inputs
 
 ```nix
 {
-  inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs";
-  };
-outputs = { self, nixpkgs }: {
-
-# Define outputs here
-};
-}
+  inputs 
 ```
 
