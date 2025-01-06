@@ -1,6 +1,6 @@
 Resources:
 - [Zero to Nix](https://zero-to-nix.com/concepts/flakes/)
-
+- [Xe's blog](https://xeiaso.net/blog/nix-flakes-1-2022-02-21/)
 A nix flake is a directory containing, at least
 
 ```
