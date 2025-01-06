@@ -53,4 +53,4 @@ match optional_value {
 
 # References
 - [Awesome Rust Tools](https://github.com/unpluggedcoder/awesome-rust-tools): Collection of tools written in Rust.
-- 
+- [Official Learn Rust](https://www.rust-lang.org/learn)
