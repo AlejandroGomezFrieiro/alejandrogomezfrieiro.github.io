@@ -4,6 +4,9 @@ tags: [rust]
 ---
 Rust is a blazingly fast (their claim, not mine) programming language, with safety as one of its main features.
 
+> [!note]
+Some of the code here might not be correct, as I wrote it quickly without checking, but it should be sufficiently close to convey the message
+
 # Favourite Rust features
 Rust's type system is extensible, and allows the compiler to check the codes validity.
 
@@ -29,4 +32,11 @@ match enum_instance {
 }
 ```
 
-Since `Option` and `Result` are also `enum`, it is comm
+Since `Option` and `Result` are also `enum`, it is common to destructure them
+
+```rust
+match optional_value {
+   None => println!("None"),
+   Some(value) => println!(format!({value}))
+}
+```
