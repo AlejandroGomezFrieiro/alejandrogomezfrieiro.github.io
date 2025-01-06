@@ -15,6 +15,7 @@ Coming from a Python background, which has a broken tooling system with several 
 - cargo: Package manager
 - clippy: Linter
 - rustfmt: Formatting
+- rust-analyzer: The main Rust LSP
 
 ## Type system and match statements
 Rust's type system is extensible, and allows the compiler to check the code's validity.
