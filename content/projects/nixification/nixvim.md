@@ -3,4 +3,4 @@ Finish porting my [original neovim setup](https://github.com/AlejandroGomezFriei
 - [ ] setup flake-parts for ease of use
 - [ ] keybinds, in particular LSP ones
 - [ ] telescope
-- [ ]  Add to [[templates]]
+- [ ]  Integrate with [[templates]]
