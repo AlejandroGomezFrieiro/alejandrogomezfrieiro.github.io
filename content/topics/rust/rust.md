@@ -24,6 +24,7 @@ let enum_instance = ExampleEnum::Value1;
 
 match enum_instance {
    ExampleEnum::Value1 => println!("Value 1"),
-   ExampleEnum::Value2(s) => println!(format!("Value {s}"))
+   ExampleEnum::Value2(s) => println!(format!("Value {s}")),
+   ExampleEnum::Value3 {i} =>println!(format!("Value {i}"))
 }
 ```
