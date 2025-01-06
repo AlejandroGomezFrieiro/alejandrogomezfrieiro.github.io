@@ -1,6 +1,6 @@
 # Quartz
 
-[Quartz]() is a static
+[Quartz](https://quartz.jzhao.xyz/) is a static site generator with integration with [Obsidian]() and 'markdown-oxide'
 
 # Sync
 
