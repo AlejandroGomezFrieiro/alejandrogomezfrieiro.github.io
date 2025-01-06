@@ -25,6 +25,19 @@ Flavours of Nix are variants of the nix language/package, brought up by the awes
 
 The recommended way to install Nix is by using the [lix installer](https://git.lix.systems/lix-project/lix#installation), which is open source.
 
+For an existing installation, it can be upgraded running the following code
+
+
+```bash
+sudo --preserve-env=PATH nix run \
+     --experimental-features "nix-command flakes" \
+     --extra-substituters https://cache.lix.systems --extra-trusted-public-keys "cache.lix.systems:aBnZUw8zA7H35Cz2RyKFVs3H4PlGTLawyY5KRbvJR8o=" \
+     'git+https://git.lix.systems/lix-project/lix?ref=refs/tags/2.91.1' -- \
+     upgrade-nix \
+     --extra-substituters https://cache.lix.systems --extra-trusted-public-keys "cache.lix.systems:aBnZUw8zA7H35Cz2RyKFVs3H4PlGTLawyY5KRbvJR8o="
+```
+
+
 Another popular way to go about it is to use the [Determinate Systems installer](https://github.com/DeterminateSystems/nix-installer?tab=readme-ov-file#determinate-nix-installer).
 
 # Resources
