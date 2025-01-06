@@ -19,5 +19,5 @@ TJ Devries, one of the main developers of Neovim, called it a Personalized Devel
 
 With one minor caveat: reproducibility. This is now solved thanks to Nix. Trying to improve my setup, you can read about the efforts in [[nixvim]].
 
-
+[^pde]: https://youtu.be/QMVIJhC9Veg?si=qtJYVT_CFhCtG2Em
 
