@@ -19,4 +19,4 @@ In contrast, a digital garden is a collection of related texts, where one is fre
 
 The fact that it is an ever-evolving set of documents means that there will be failures as well, and from them one can learn.
 
-
+# Sync
