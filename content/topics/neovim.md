@@ -15,7 +15,7 @@ Neovim has a strong community and lots of plugins thanks to its extensibility.
 
 I have been using Neovim for a few years now, and the experience has been mostly great. The quasi-gamification of text-editing, and its personalisation makes it such a good way to think about writing.
 
-TJ Devries, one of the main developers of Neovim, called it a Personalized Development Environment [^pde].
+TJ Devries, one of the main developers of Neovim, called it a Personalized Development Environment [^pde]. ^dd0d89
 
 # Learning
 Coming from a modeless editor can be hard to internalise how vim-like movement works. In my case, I think it took a few months of full-time use to overwrite my muscle memory.
