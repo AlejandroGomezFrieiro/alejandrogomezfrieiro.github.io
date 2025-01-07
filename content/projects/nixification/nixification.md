@@ -1,7 +1,6 @@
 ---
 title: Nixification
-tags:
-  - project
+tags: [project]
 description: Use as much Nix as possible for my projects.
 ---
 # Objectives
