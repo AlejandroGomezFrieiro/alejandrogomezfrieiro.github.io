@@ -1,0 +1,1 @@
+Currently, dataview dynamic queries are not properly rendered in quartz  only in Obsidian.

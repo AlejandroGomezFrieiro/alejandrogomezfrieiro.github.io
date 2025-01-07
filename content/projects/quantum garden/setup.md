@@ -24,6 +24,8 @@ Setup:
 > [!todo]
 > Proper integration with dataview is missing.
 
+
+
 # Folder organization
 
 PKM organisation has always been an issue for me. I have tried [PARA](https://fortelabs.com/blog/para/) in the past, but having such a structured way of doing things does not go well with me. So far I have decided on a simple structure, and hopefully through practice and iteration it will improve.
