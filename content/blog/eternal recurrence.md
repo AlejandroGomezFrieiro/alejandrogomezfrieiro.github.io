@@ -12,4 +12,8 @@ First of all, neovim as as a [[neovim#^dd0d89|personalized development environme
 
 Secondly, let's talk nix.
 
-Nix...can be hard to read and write. There is some LSP support, but unless I am doing something wrong, it does not really handle all arbitrary flakes I throw at it.
+Nix...can be hard to read and write. There is some LSP support, but unless I am doing something wrong, it does not really handle all arbitrary flakes I throw at it. With other languages, specially typed languages (or type-hinted like Python), the LSP can handle a bunch of the mental overload when handling large codebases.
+
+There's also the fact that there are no proper best-practices I have found so far, as the ecosystem is still evolving. Some recommendations I've seen online include
+
+- 
