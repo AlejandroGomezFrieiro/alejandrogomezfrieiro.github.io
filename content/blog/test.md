@@ -18,7 +18,7 @@ I have been infatuated with Nix for about half a year now. For those that might 
 Since I am still a youngling with respect to Nix, I tend to look around for how people solved the problem first. To build Quartz and its development environment, I needed a flake that would give me a devshell with
 
 - NodeJS and the quartz dependencies setup.
-- A personalized [[Neovim]] environment.
+- A personalized [[neovim]] environment.
 
 The flake I ended up writing is based on [this blogpost](https://johns.codes/blog/building-typescript-node-apps-with-nix). You can of course take a look at it in this blog's repository, but for those curious
 
