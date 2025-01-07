@@ -18,3 +18,4 @@ There's also the fact that there are no proper best-practices I have found so fa
 
 - https://github.com/hercules-ci/flake-parts which still kinda confuses me, but I can see why it is powerful.
 - https://jmgilman.github.io/std-book/
+- https://snowfall.org/
