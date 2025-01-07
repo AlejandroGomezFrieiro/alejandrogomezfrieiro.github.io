@@ -4,7 +4,7 @@ tags:
     - python
 ---
 0. Make sure you have setup a PyPi project setup for the repo.
-3. Setup Github Action
+3. Setup Github Actions
 ```yaml
 name: "CICD"
 on:
