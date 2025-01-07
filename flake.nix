@@ -63,22 +63,6 @@
           runHook postInstall
         '';
       };
-
-      neovimModule = {
-        inherit pkgs;
-        module = {
-          imports = [
-            nixvim_config.outputs.nixosModules.${system}.nvim
-          ];
-          plugins.lsp.servers.markdown_oxide.enable = true;
-          plugins.lsp.servers.tsserver.enable = true;
-          extraPlugins = with pkgs.vimPlugins; [
-            markdown-nvim
-          ];
-          extraConfigLua = "require('markdown').setup()";
-        };
-      };
-      neovim = nixvim_config.inputs.nixvim.legacyPackages.${system}.makeNixvimWithModule neovimModule;
     in
       with pkgs; {
         formatter = pkgs.alejandra;
@@ -93,7 +77,7 @@
             }: {
               packages = [
                 just
-                neovim
+                nixvim_config.packages.${system}.nixvim
                 markdown-oxide
                 nodejs
                 node2nix
