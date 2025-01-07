@@ -8,3 +8,5 @@ Finish porting my [original](https://github.com/AlejandroGomezFrieiro/chezmoi) [
 - [x] keybinds, in particular LSP ones
 - [x] telescope
 - [x] integrate with [[templates]]
+
+It seems that my current implementation has become quite a bit complicated, so I expect another refactoring might happen in the near future.

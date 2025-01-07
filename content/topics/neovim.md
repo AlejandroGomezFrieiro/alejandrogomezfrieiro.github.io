@@ -35,5 +35,7 @@ One caveat of the dotfile-style setup: reproducibility. I recently had to instal
 > This lead me to start using [nixvim](https://github.com/nix-community/nixvim), a Nix-based neovim configuration system.
 Currently trying to improve my setup to make it reproducible and more modular, you can read about the efforts in [[nixvim]].
 
+My current best attempt at making a neovim setuo that is easily reproducible and portable is in 
+
 [^pde]: https://youtu.be/QMVIJhC9Veg?si=qtJYVT_CFhCtG2Em
 
