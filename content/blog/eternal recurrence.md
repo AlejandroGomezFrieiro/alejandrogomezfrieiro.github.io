@@ -19,3 +19,9 @@ There's also the fact that there are no proper best-practices I have found so fa
 - https://github.com/hercules-ci/flake-parts which still kinda confuses me, but I can see why it is powerful.
 - https://jmgilman.github.io/std-book/
 - https://snowfall.org/
+
+And likely more. Having so many different standards makes it hard for newcommers to really write their own, as there are insufficient guidelines on how to use them. Also, many of the good tutorials for nix might be from a few years ago, and so they might be incompatible with current tools.
+
+I also find strange that there is no standardized way to document Nix files, which combined with the lack of a strong type-system makes development feel like improvisation and copy-pasting...
+
+Is it because of my inexperienced with the language, and the broader functional programming paradigm?
