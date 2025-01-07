@@ -137,6 +137,12 @@ use flake
 
 Now, after we run `direnv allow`, it will setup everything! Now whenever you enter the folder, if the `flake.nix` file has not changed, you will have your development environment ready.
 
+
+
+## Public comments
+
+As a way to increase interactiviy on the site, I am attempting to setup comments using [Giscus](https://giscus.app/). I followed the instructions in the quartz documentation and they show locally, so I hope they will also show up in the online version.
+
 # Conclusion
 
 Overall I am quite happy with the setup. I just need to clone the repo and run `nix develop` to start writing anywhere (I hope! Fingers crossed!).
