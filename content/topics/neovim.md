@@ -37,7 +37,10 @@ Currently trying to improve my setup to make it reproducible and more modular, y
 
 My current best attempt at making a neovim setuo that is easily reproducible and portable is in my [personal repo](https://github.com/AlejandroGomezFrieiro/nixvim_config). As long as the system I'm working on has Nix, I should be able to run
 
-
+```
+nix run github:AlejandroGomezFrieiro/nixvim_config
+```
+to get myself into a neovim terminal. Of course this is not ideal, so I also setup two template flakes that use this neovim for [[rust]] and
 
 [^pde]: https://youtu.be/QMVIJhC9Veg?si=qtJYVT_CFhCtG2Em
 
