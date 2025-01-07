@@ -16,4 +16,5 @@ Nix...can be hard to read and write. There is some LSP support, but unless I am 
 
 There's also the fact that there are no proper best-practices I have found so far, as the ecosystem is still evolving. Some recommendations I've seen online include
 
+- https://github.com/hercules-ci/flake-parts which still kinda confuses me, but I can see why it is powerful.
 - 
