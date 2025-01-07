@@ -70,6 +70,7 @@
           imports = [
             nixvim_config.outputs.nixosModules.${system}.nvim
           ];
+          plugins.lsp.servers.pylsp.enable = true;
           plugins.lsp.servers.markdown_oxide.enable = true;
           plugins.lsp.servers.tsserver.enable = true;
           extraPlugins = with pkgs.vimPlugins; [
