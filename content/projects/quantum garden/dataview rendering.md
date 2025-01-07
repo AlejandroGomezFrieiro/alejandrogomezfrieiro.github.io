@@ -5,3 +5,4 @@ Someone in the quartz Discord server wrote an Obsidian plugin [quartz-syncer](ht
 The obvious step is for this to be done in the CICD pipeline, generate a new `contenrs` folder and render from there. Maybe need to move the current `contents` folder into a `vault` (or even different repo and link them?)
 
 # References
+https://github.com/sspaeti/second-brain-public
