@@ -3,3 +3,5 @@ Authors: S. Günzler, J. Beck, D. Rieger, N. Gosling, N. Zapata, M. Field, S. Ge
 
 Granular Aluminium nanojunction (gralmonium) superconducting qubit on large magnetic field
 
+Not high coherence, $T_{1} \approx 8\mu\text{s}$ and $T_{2}^{\text{Echo}} \approx 3 \mu\text{s}$
+
