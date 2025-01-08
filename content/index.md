@@ -14,7 +14,8 @@ You can find a list of projects in [Projects](/projects/)
 # Topical notes
 
 I keep an ammunt of notes sorted by topic, you can find them in the search bar on the left.
-
+# Media
+My thoughts of different forms of media can be found in [Media](/media)
 # 📑 Blog
 
 I sometimes write a #blog
