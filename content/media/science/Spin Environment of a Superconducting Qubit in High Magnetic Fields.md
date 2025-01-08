@@ -12,5 +12,7 @@ Not high coherence, $T_{1} \approx 8\mu\text{s}$ and $T_{2}^{\text{Echo}} \appro
 
 Happy to see Pop's group continues to push the state-of-the-art of GrAl
 
+
+
 Reference:
 [arXiv:2501.03661](https://arxiv.org/abs/2501.03661)
