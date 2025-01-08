@@ -40,7 +40,9 @@ My current best attempt at making a neovim setuo that is easily reproducible and
 ```
 nix run github:AlejandroGomezFrieiro/nixvim_config
 ```
-to get myself into a neovim terminal. Of course this is not ideal, so I also setup two template flakes that use this neovim for [[rust]] and
+to get myself into a neovim terminal. Of course this is not ideal, so I also setup two template flakes that use this neovim for [[rust]] and python development.
+
+This quartz repo is also using the current versión of the nixvim configuration in the `flake.nix` available in the main folder of the repo.
 
 [^pde]: https://youtu.be/QMVIJhC9Veg?si=qtJYVT_CFhCtG2Em
 
