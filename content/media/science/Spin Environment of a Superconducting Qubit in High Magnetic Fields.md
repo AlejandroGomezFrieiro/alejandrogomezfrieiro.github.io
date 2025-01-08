@@ -10,4 +10,5 @@ Not high coherence, $T_{1} \approx 8\mu\text{s}$ and $T_{2}^{\text{Echo}} \appro
 
 ![[Screenshot_20250108_075826_Adobe Acrobat.jpg]]
 
-Reference: 
+Reference:
+[]()
