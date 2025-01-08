@@ -12,7 +12,7 @@ Not high coherence, $T_{1} \approx 8\mu\text{s}$ and $T_{2}^{\text{Echo}} \appro
 
 Happy to see Pop's group continues to push the state-of-the-art of GrAl
 
-
+I remember one of the first questions I had at the beginning of my PhD is why we didn't use nanojunctions more in superconducting qubits, and why all the major implementations were SIS Josephson Junctions. It is good to see that other JJ models are being used.
 
 Reference:
 [arXiv:2501.03661](https://arxiv.org/abs/2501.03661)
