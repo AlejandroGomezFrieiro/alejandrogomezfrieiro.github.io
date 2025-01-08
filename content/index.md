@@ -15,7 +15,7 @@ You can find a list of projects in [Projects](/projects/)
 
 I keep an ammunt of notes sorted by topic, you can find them in the search bar on the left.
 # Media
-My thoughts of different forms of media can be found in [Media](/media)
+My thoughts of different forms of media can be found in [Media](/media). This includes (but is not necessarily limited to) scientific papers, videogames and books.
 # 📑 Blog
 
 I sometimes write a #blog
