@@ -1,4 +1,4 @@
-`flake-parts` is a tool for generating a [[nix-flakes|flake]] from other modularly prepared nix derivations.
+`flake-parts` is a tool for generating a [[nix-flakes|flake]] from other modularly prepared nix derivations. I wish documentation was a bit more elaborate, but by checking enough repositories it is possible to understand the basic usage.
 
 The default structure for a simple package such as the one I generated for [[nixvim]] is
 
@@ -52,7 +52,7 @@ config/default.nix
 ```
 
 # pkg.nix
-This file is a function, where `perSystem` is a function that takes some inputs and returns the per-system flake outputs. In my repo, I set it so that `package.default` takes a `config` module.
+This file is a function, where `perSystem` is a function that takes some inputs and returns the per-system flake outputs. In my repo, I set it so that `package.default` takes a `config` module to, somehow, generate the package.
 
 ```nix
 {
