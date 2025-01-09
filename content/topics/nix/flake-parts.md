@@ -52,7 +52,7 @@ config/default,nix
 ```
 
 # pkg.nix
-This file is a function, where `perSystem` is a function
+This file is a function, where `perSystem` is a function that takes some inputs and returns the fper-system flake outputs.
 
 ```nix
 {
