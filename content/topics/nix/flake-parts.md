@@ -52,6 +52,24 @@ config/default,nix
 ```
 
 # pkg.nix
+This file is a function, where `perSystem` is a closure
 
 ```nix
+{
+  inputs,
+  self,
+  ...
+}: {
+  perSystem = {
+    inputs',
+    self',
+    pkgs,
+    system,
+    ...
+  }: {
+    packages.default = ...;
+
+    checks.test = ...;
+  };
+}
 ```
