@@ -52,7 +52,7 @@ config/default,nix
 ```
 
 # pkg.nix
-This file is a function, where `perSystem` is a closure
+This file is a function, where `perSystem` is a function
 
 ```nix
 {
