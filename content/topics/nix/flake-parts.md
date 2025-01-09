@@ -5,5 +5,11 @@ The default structure for a simple package such as the one I generated for [[nix
 ```
 flake.nix
 pkg.nix
+config/default,nix
+```
+
+# flake.nix
+
+```nix
 
 ```
