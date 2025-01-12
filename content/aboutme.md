@@ -1,16 +1,16 @@
 ---
 title: About me
 ---
-Scientist and Engineer, living somewhere in the middle between them.
+Scientist and Engineer, living somewhere in the middle between them. Love learning and trying new things. Turned vegetarian in June 2024, which improved my wellbeing.
 
 # Languages
 My native languages are 🇪🇸Spanish and Galician. Then learnt 🇬🇧English as everyone does worldwide. Also learnt a good amount of 🇯🇵Japanese during my late teens, early 20s. Currently trying to learn some 🇰🇷Korean.
 Being a plurilingual person can be strange sometimes.
 
 # Likes
-I have played videogames since I was but a child, and I do not plan to stop. However, it is true that I have less time to do it.
+I have played videogames since I was but a child, and I do not plan to stop. However, it is true that I have less time to do it. The genre I play the most are JRPG. Some notable mentions: Kingdom Hearts, Final Fantasy, Trails/Kiseki series.
 
-Music is a passion of mine as well. I (badly) play guitar and love rock and metal music, in particular progressive and lots of projects coming from Japan.
+Music is a passion of mine as well. I (badly) play guitar and love rock and metal music, in particular progressive and lots of projects coming from Japan. Some people might consider me a Laurant, since I love 
 
 Avid fantasy reader, although I am attempting to branch out a bit.
 
