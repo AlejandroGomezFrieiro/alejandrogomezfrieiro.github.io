@@ -10,7 +10,7 @@ Being a plurilingual person can be strange sometimes.
 # Likes
 I have played videogames since I was but a child, and I do not plan to stop. However, it is true that I have less time to do it. The genre I play the most are JRPG. Some notable mentions: Kingdom Hearts, Final Fantasy, Trails/Kiseki series.
 
-Music is a passion of mine as well. I (badly) play guitar and love rock and metal music, in particular progressive and lots of projects coming from Japan. But I tend toSome people might consider me a Laurant, since I love [Sound Horizon](https://en.m.wikipedia.org/wiki/Sound_Horizon). Other bands I love in no order: Galneryus, Camellia, Azure
+Music is a passion of mine as well. I (badly) play guitar and love rock and metal music, in particular progressive and lots of projects coming from Japan. But I tend to listen to other genres depending on my mood. Some people might consider me a Laurant, since I love [Sound Horizon](https://en.m.wikipedia.org/wiki/Sound_Horizon), ans I think Revo, the composer, is one of the greatest artistic genious of our generation. Other bands I love in no order: Galneryus, Camellia, Azure, Nanatsukaze, Wintersun, Ne Obliviscaris, Lorna Shore, Imperial Circus Dead Decadence, AliA, Valhalore, DECO*27...
 
 Avid fantasy reader, although I am attempting to branch out a bit.
 
