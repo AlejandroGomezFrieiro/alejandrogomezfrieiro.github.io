@@ -4,7 +4,7 @@ title: About me
 Scientist and Engineer, living somewhere in the middle between them.
 
 # Languages
-My native languages are 🇪🇸Spanish and Galician. Then learnt 🇬🇧English as everyone does worldwide. Also learnt a good amount of Japanese during my late teens, early 20s. Currently trying to learn some Korean.
+My native languages are 🇪🇸Spanish and Galician. Then learnt 🇬🇧English as everyone does worldwide. Also learnt a good amount of 🇯🇵Japanese during my late teens, early 20s. Currently trying to learn some 🇰🇷Korean.
 Being a plurilingual person can be strange sometimes.
 
 # Likes
