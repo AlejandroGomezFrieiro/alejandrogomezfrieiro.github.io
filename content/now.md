@@ -6,8 +6,10 @@ title: Now
 - [[digital garden]]
 
 ## Watching:
+(Lots of season 2s right now...)
 - Ishura S2
 - The Apothecary Diaries S2
+- Solo Levelling S2
 
 ## Reading:
 - [[The Vegetarian]]
