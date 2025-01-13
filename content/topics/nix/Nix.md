@@ -43,6 +43,19 @@ sudo --preserve-env=PATH nix run \
 
 Another popular way to go about it is to use the [Determinate Systems installer](https://github.com/DeterminateSystems/nix-installer?tab=readme-ov-file#determinate-nix-installer).
 
+## Installing packages in non-NixOS systems
+
+Besides using flakes and devShells to control environments, the best way (currently) to install a package in an user profile is by running
+
+```bash
+nix profile install nixpkgs#<package>
+```
+
+This can also use a github or local repo, including a flake-based one
+
+```bash
+nix profile install github:user/repo#package
+```
 # Resources
 [nix.dev](https://nix.dev/tutorials/first-steps/index.html) ^7d39a4
 
