@@ -39,6 +39,6 @@ topics
 For platform cross-usage, I try to avoid Obsidian-only plugins that add functionality.
 This way I can keep all of my information in plain markdown.
 
-'markdown-oxide' has good compatibility with Obsidian, but I don't want to make it so that I have a bunch of, for example, Excalidraw diagrams that I won't be able to open in the future if Obsidian dies.
+`markdown-oxide` has good compatibility with Obsidian, but I don't want to make it so that I have a bunch of, for example, Excalidraw diagrams that I won't be able to open in the future if Obsidian dies.
 
 
